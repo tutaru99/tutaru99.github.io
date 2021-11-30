@@ -16,7 +16,7 @@
             <a href="https://creditro.com" target="_blank"
               ><h2 id="links">Creditro</h2></a
             >
-            <h2 class="ml-auto">Application Development</h2>
+            <h2 class="ml-auto">Full Stack Developer</h2>
           </div>
           <span>08.2021 - 11.2021 / Esbjerg, Denmark</span>
         </div>
@@ -25,7 +25,7 @@
             <a href="https://www.energycluster.dk" target="_blank"
               ><h2 id="links">Energy Cluster Denmark</h2></a
             >
-            <h2 class="ml-auto">Web Application Development</h2>
+            <h2 class="ml-auto">Full Stack Developer</h2>
           </div>
           <span>08.2020 - 01.2021 / Esbjerg, Denmark</span>
         </div>
@@ -43,7 +43,7 @@
             <a href="https://cocolab.club" target="_blank"
               ><h2 id="links">Cocolab.club</h2></a
             >
-            <h2 class="ml-auto">Final Exam Project</h2>
+            <h2 class="ml-auto">Front-End Developer</h2>
           </div>
           <span>04.2020 - 06.2020 / Esbjerg, Denmark</span>
         </div>
@@ -51,7 +51,7 @@
           <div class="d-flex">
             <a href="https://www.nobrainer.dk" target="_blank"
               ><h2 id="links">NoBrainer</h2></a>
-            <h2 class="ml-auto">Junior Web Developer</h2>
+            <h2 class="ml-auto">Junior Full Stack Developer</h2>
           </div>
           <span>01.2020 - 04.2020 / Esbjerg, Denmark</span>
         </div>
